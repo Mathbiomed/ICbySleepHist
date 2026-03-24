@@ -100,7 +100,3 @@ This function takes nine inputs:
 
 The variable **`work_history`** represents the historical work schedule. All other inputs are the same as those in **`IC_period_based_sleep_method`**.
 
----
-
-원하시면 제가 이걸 이어서 **GitHub README 형식**에 맞게
-`Overview / Requirements / Input format / Example / Functions / Notes` 구조로 더 깔끔하게 재정리해드릴게요.
